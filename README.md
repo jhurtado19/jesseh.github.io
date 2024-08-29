@@ -6,3 +6,9 @@
 
 ## The data set.
   The data itself consists of tabular data, each row corresponding to an individual iris sample for three iris species, examining 4 features of each sample. The objective of the classifcation methods is then to learn to distinguish the iris samples based on the features, totalling 150 samples, 50 of each species. 
+
+# [Deep Learning](https://www.deeplearningbook.org/)
+This book, Deep Learning, by Ian Goodfellow and Yoshua Bengio and Aaron Courville,
+is a book that covers the fundamentals of Deep Learning and Machine learning. In each chapter, it systematically presents a relevant layer of information that develops an understanding of machine learning from first principles, linear algebra, and statistics, and synthesizes this knowledge to construct the concept of machine learning, and the underlying deep learning. 
+
+I am excited to read it because I want to tackle the concepts of machine learning and deep learning head on, and expose myself to the fundamentals, master them, and develop a healthy understanding of these concepts and their applications. 
