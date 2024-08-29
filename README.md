@@ -11,4 +11,4 @@
 This book, Deep Learning, by Ian Goodfellow and Yoshua Bengio and Aaron Courville,
 is a book that covers the fundamentals of Deep Learning and Machine learning. In each chapter, it systematically presents a relevant layer of information that develops an understanding of machine learning from first principles, linear algebra, and statistics, and synthesizes this knowledge to construct the concept of machine learning, and the underlying deep learning. 
 
-I am excited to read it because I want to tackle the concepts of machine learning and deep learning head on, and expose myself to the fundamentals, master them, and develop a healthy understanding of these concepts and their applications. 
+I am excited to read it because I want to tackle the concepts of machine learning and deep learning head on, and expose myself to the fundamentals, master them, and develop a healthy understanding of these concepts and their applications. (Source: https://www.deeplearningbook.org)
